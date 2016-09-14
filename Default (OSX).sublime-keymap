@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["ctrl+alt+l"],
+		"command": "toggle_setting",
+		"args": {
+   		"setting": "line_numbers"
+   	}
+   },
+	{ "keys": ["command+alt+s"], "command": "reveal_in_side_bar" }
+]
